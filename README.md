@@ -1,2 +1,3 @@
-# Coding_Raja_Technologies_Internship_ML_Task2
-this repository contais the source code of Food_Classification
+#Task 2:
+
+This repository contains the source code of IMAGE CLASSIFICATION FOR FOOD RECOGNITION
