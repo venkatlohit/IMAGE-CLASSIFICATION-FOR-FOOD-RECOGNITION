@@ -6,4 +6,4 @@ Dataset link: https://www.kaggle.com/datasets/l33tc0d3r/indian-food-classificati
 
 Accuracy:
 
-Using CNN: 68%
+Using CNN: 70%
